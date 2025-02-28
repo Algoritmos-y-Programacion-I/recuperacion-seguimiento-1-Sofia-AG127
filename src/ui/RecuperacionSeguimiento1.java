@@ -17,9 +17,7 @@ public class RecuperacionSeguimiento1 {
 	public void run() // Aqui en el metodo run hacemos lo de nuestro metodo main. Solo entrada de datos, mensajes al usuario y mostrar salidas
 	{   
         // Metodo pow de Math
-        double a = 2;
-        double b = 3;
-        System.out.println(Math.pow(a, b));
+        
         
 
         // Declaracion de info a pedir del usuario 
