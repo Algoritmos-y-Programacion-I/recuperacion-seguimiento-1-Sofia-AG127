@@ -178,6 +178,9 @@ public class RecuperacionSeguimiento1 {
 		if (palabra2.length() >=3){
 			count ++;
 		}
+		if (palabra3.length() >=3){
+			count ++;
+		}
 		return count;
 	}
 	public static boolean comparación (String word1, String word2){
